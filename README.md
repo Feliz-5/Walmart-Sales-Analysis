@@ -42,7 +42,7 @@ Enriched calendar table used for better time-based reporting.
 
 *What is the monthly sales trend by year?*
 
-- MySQL: Total Sales by Months and Years.sql  
+- MySQL: [Total Sales by Months and Years.sql] 
 - Power BI: Line chart to visualize seasonal patterns.
 
 
@@ -51,7 +51,7 @@ Enriched calendar table used for better time-based reporting.
 
   *Which stores performed best over 3 years?*
 
-- MySQL : Top 5 Stores by Sales Over 3 Years.sql 
+- MySQL : [Top 5 Stores by Sales Over 3 Years.sql]  
 - Power BI : Bar Chart with breakdown by year and store id.
 
 
@@ -60,7 +60,7 @@ Enriched calendar table used for better time-based reporting.
   
   *Is there any correlation between CPI rate and unemployment rate?*
 
-- MySQL: Avg CPI Rate and Avg Unemployment Rate by Year.sql 
+- MySQL:[ Avg CPI Rate and Avg Unemployment Rate by Year.sql] 
 - Power BI:  Combo Chart for macroeconomic overview.
 
 
@@ -69,7 +69,7 @@ Enriched calendar table used for better time-based reporting.
 
    *Do holidays and fuel prices influence sales performance?*
 
-- MySQL: Avg Weekly Sales and Avg Fuel Price by Holiday Flag.sql  
+- MySQL: [Avg Weekly Sales and Avg Fuel Price by Holiday Flag.sql]
 - Power BI: scattered plot chart to visualize sales performance over the two variables.
 
 
